@@ -13,7 +13,7 @@
 
  使用方法：
 ```
-wget https://github.com/haozibi/MyScript/blob/master/tmux.centos.all.sh
+wget http://git.io/vu8Py
 chmod a+x tmux.centos.all.sh 
 ./tmux.centos.all.sh
 ```
