@@ -22,6 +22,7 @@ chmod a+x tmux.centos.all.sh
 
 ## AD：
 **web : [www.bzizi.com](http://www.bzizi.com)**
+
 **Email : [blog.bzizi.com](http://blog.bzizi.com) **
 
 
