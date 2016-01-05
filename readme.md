@@ -12,6 +12,7 @@
 * centos x86_64
 
  使用方法：
+
 ```
 wget https://raw.githubusercontent.com/haozibi/MyScript/master/tmux.centos.all.sh
 chmod a+x tmux.centos.all.sh 
