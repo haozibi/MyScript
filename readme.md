@@ -11,7 +11,7 @@
 * centos x86
 * centos x86_64
 
- 使用方法：
+使用方法：
 
 ```
 wget https://raw.githubusercontent.com/haozibi/MyScript/master/tmux.centos.all.sh
