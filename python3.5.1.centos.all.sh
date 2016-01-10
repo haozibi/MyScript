@@ -1,4 +1,4 @@
-yum update
+yum update -y
 yum install -y gcc openssl-devel git
 mkdir bzizi.com
 cd bzizi.com
