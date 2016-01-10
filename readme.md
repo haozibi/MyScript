@@ -85,7 +85,7 @@ chmod a+x all.sh
 **Enjoy it !**
 
 ## 截图
-![](http://i11.tietuku.com/5c5d0ebcaf225ca0s.png)
+![](https://raw.githubusercontent.com/haozibi/MyScript/master/docs/pic.png)
 
 ## AD：
 **web : [www.bzizi.com](http://www.bzizi.com)**
