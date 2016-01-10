@@ -32,7 +32,7 @@ cd ..
 wget http://iweb.dl.sourceforge.net/project/levent/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
 
 tar -zxvf libevent-2.0.22-stable.tar.gz
-cd libevent-2.0.22-stable 
+cd libevent-2.0.22-stable
 ./configure && make
 make install
 
@@ -52,15 +52,14 @@ cd ~
 
 clear
 
-echo "Python3 tmux Python2-pip  successful installation,enjoy it"
+echo " Python3 tmux Python2-pip  successful installation,enjoy it"
 echo " Python3 ==> 3.5.1 "
 echo " pip ==> 7.1.2 "
-echo " ---------------------"
 echo " python --> python2 "
 echo " python3 --> python3 "
 echo " pip --> Python2 "
 echo " pip3 --> Python3 "
-echo Welcome to www.bzizi.com -- haozibi
+echo " Welcome to www.bzizi.com -- haozibi "
 
 
 
