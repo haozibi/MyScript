@@ -4,6 +4,12 @@
 
 **无脑流水帐，鄙人新手，请大牛多多指导，但还是比较实用的～**
 
+## 版本
+* Python3 ==> 3.5.1
+* Python ==> Python2
+* Python3 ==> pip3
+* Python ==> pip (7.1.2)
+
 ##安装tmux
 
 *tmux一键安装脚本*
@@ -77,6 +83,9 @@ chmod a+x all.sh
 ***
 
 **Enjoy it !**
+
+## 截图
+![](http://i11.tietuku.com/5c5d0ebcaf225ca0s.png)
 
 ## AD：
 **web : [www.bzizi.com](http://www.bzizi.com)**
