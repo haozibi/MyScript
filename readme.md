@@ -38,6 +38,23 @@ chmod a+x python3.5.1.centos.all.sh
 
 **自带pip3**
 
+##安装Python2 - pip
+
+*python2 - pip一键安装脚本*
+
+适用于：
+
+* centos x86
+* centos x86_64
+
+使用方法：
+
+```
+wget https://raw.githubusercontent.com/haozibi/MyScript/master/python2-pip.centos.all.sh
+chmod a+x python2-pip.centos.all.sh
+./python2-pip.centos.all.sh
+```
+
 ***
 
 **Enjoy it !**
