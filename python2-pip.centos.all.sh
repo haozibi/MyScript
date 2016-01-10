@@ -12,6 +12,5 @@ python2 setup.py install
 cd ~
 
 clear
-echo python2-> pip install
-echo enjoy it
+echo "python2 - pip " successful installation,enjoy it
 echo Welcome to www.bzizi.com -- haozibi

@@ -55,6 +55,23 @@ chmod a+x python2-pip.centos.all.sh
 ./python2-pip.centos.all.sh
 ```
 
+##全部安装
+
+*上面所有一键安装脚本集合*
+
+适用于：
+
+* centos x86
+* centos x86_64
+
+使用方法：
+
+```
+wget https://raw.githubusercontent.com/haozibi/MyScript/master/all.sh
+chmod a+x all.sh
+./all.sh
+```
+
 ***
 
 **Enjoy it !**
