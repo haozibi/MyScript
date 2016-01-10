@@ -36,11 +36,17 @@ chmod a+x python3.5.1.centos.all.sh
 ./python3.5.1.centos.all.sh
 ```
 
+**自带pip3**
+
+***
+
 **Enjoy it !**
 
 ## AD：
 **web : [www.bzizi.com](http://www.bzizi.com)**
 
 **Email : [blog.bzizi.com](http://blog.bzizi.com)**
+
+## Email : [b@bzizi.com](mailto:b@bzizi.com)
 
 
