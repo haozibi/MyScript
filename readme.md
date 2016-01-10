@@ -19,6 +19,23 @@ chmod a+x tmux.centos.all.sh
 ./tmux.centos.all.sh
 ```
 
+##安装Python3
+
+*python3一键安装脚本*
+
+适用于：
+
+* centos x86
+* centos x86_64
+
+使用方法：
+
+```
+wget https://raw.githubusercontent.com/haozibi/MyScript/master/python3.5.1.centos.all.sh
+chmod a+x python3.5.1.centos.all.sh 
+./python3.5.1.centos.all.sh
+```
+
 **Enjoy it !**
 
 ## AD：
