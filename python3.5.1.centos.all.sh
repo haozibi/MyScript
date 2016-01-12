@@ -1,5 +1,5 @@
 yum update -y
-yum install -y gcc openssl-devel git
+yum install -y gcc openssl-devel git make
 mkdir bzizi.com
 cd bzizi.com
 wget --no-check-certificate https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tgz
