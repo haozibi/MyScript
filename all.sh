@@ -2,7 +2,7 @@ yum update -y
 yum install -y gcc openssl-devel git automake gcc ncurses-devel
 mkdir bzizi.com
 cd bzizi.com
-wget https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tgz
+wget --no-check-certificate https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tgz
 tar -zxvf Python-3.5.1.tgz
 cd Python-3.5.1
 ./configure && make
@@ -18,8 +18,8 @@ echo Welcome to www.bzizi.com -- haozibi
 
 cd ..
 
-wget https://bootstrap.pypa.io/ez_setup.py -O - | python2
-wget https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196
+wget --no-check-certificate https://bootstrap.pypa.io/ez_setup.py -O - | python2
+wget --no-check-certificate https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196
 
 tar -zxvf pip-7.1.2.tar.gz
 cd pip-7.1.2
@@ -29,7 +29,7 @@ clear
 
 cd ..
 
-wget http://iweb.dl.sourceforge.net/project/levent/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
+wget --no-check-certificate http://iweb.dl.sourceforge.net/project/levent/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
 
 tar -zxvf libevent-2.0.22-stable.tar.gz
 cd libevent-2.0.22-stable

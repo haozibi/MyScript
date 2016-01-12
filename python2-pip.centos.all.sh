@@ -2,8 +2,8 @@ yum update -y
 mkdir bzizi.com
 cd bzizi.com
 
-wget https://bootstrap.pypa.io/ez_setup.py -O - | python2
-wget https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196
+wget --no-check-certificate https://bootstrap.pypa.io/ez_setup.py -O - | python2
+wget --no-check-certificate https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196
 
 tar -zxvf pip-7.1.2.tar.gz
 cd pip-7.1.2

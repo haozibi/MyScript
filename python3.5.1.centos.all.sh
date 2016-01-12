@@ -2,7 +2,7 @@ yum update -y
 yum install -y gcc openssl-devel git
 mkdir bzizi.com
 cd bzizi.com
-wget https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tgz
+wget --no-check-certificate https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tgz
 tar -zxvf Python-3.5.1.tgz
 cd Python-3.5.1
 ./configure && make

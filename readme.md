@@ -22,7 +22,7 @@
 使用方法：
 
 ```
-wget https://raw.githubusercontent.com/haozibi/MyScript/master/tmux.centos.all.sh
+wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/tmux.centos.all.sh
 chmod a+x tmux.centos.all.sh 
 ./tmux.centos.all.sh
 ```
@@ -39,7 +39,7 @@ chmod a+x tmux.centos.all.sh
 使用方法：
 
 ```
-wget https://raw.githubusercontent.com/haozibi/MyScript/master/python3.5.1.centos.all.sh
+wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/python3.5.1.centos.all.sh
 chmod a+x python3.5.1.centos.all.sh 
 ./python3.5.1.centos.all.sh
 ```
@@ -58,7 +58,7 @@ chmod a+x python3.5.1.centos.all.sh
 使用方法：
 
 ```
-wget https://raw.githubusercontent.com/haozibi/MyScript/master/python2-pip.centos.all.sh
+wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/python2-pip.centos.all.sh
 chmod a+x python2-pip.centos.all.sh
 ./python2-pip.centos.all.sh
 ```
@@ -75,7 +75,7 @@ chmod a+x python2-pip.centos.all.sh
 使用方法：
 
 ```
-wget https://raw.githubusercontent.com/haozibi/MyScript/master/all.sh
+wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/all.sh
 chmod a+x all.sh
 ./all.sh
 ```

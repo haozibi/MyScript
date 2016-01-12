@@ -2,7 +2,7 @@ yum update -y
 yum install -y automake gcc ncurses-devel git
 mkdir bzizi.com
 cd bzizi.com
-wget http://iweb.dl.sourceforge.net/project/levent/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
+wget --no-check-certificate http://iweb.dl.sourceforge.net/project/levent/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
 
 tar -zxvf libevent-2.0.22-stable.tar.gz
 cd libevent-2.0.22-stable 
