@@ -23,7 +23,7 @@
 
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/tmux.centos.all.sh
-chmod a+x tmux.centos.all.sh 
+chmod a+x tmux.centos.all.sh
 ./tmux.centos.all.sh
 ```
 
@@ -40,7 +40,7 @@ chmod a+x tmux.centos.all.sh
 
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/python3.5.1.centos.all.sh
-chmod a+x python3.5.1.centos.all.sh 
+chmod a+x python3.5.1.centos.all.sh
 ./python3.5.1.centos.all.sh
 ```
 
@@ -81,6 +81,9 @@ chmod a+x all.sh
 ```
 
 ***
+
+## 优点
+在树莓派 2B 进行过测试。树莓派好慢～
 
 **Enjoy it !**
 
