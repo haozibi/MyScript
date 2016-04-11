@@ -44,6 +44,24 @@ chmod a+x python3.5.1.centos.all.sh
 ./python3.5.1.centos.all.sh
 ```
 
+
+##安装Python3，国内镜像
+
+*python3一键安装脚本*
+
+适用于：
+
+* centos x86
+* centos x86_64
+
+使用方法：
+
+```
+wget --no-check-certificate https://raw.githubusercontent.com/haozibi/MyScript/master/python3.5.1.centos.all_cn.sh
+chmod a+x python3.5.1.centos.all_cn.sh
+./python3.5.1.centos.all_cn.sh
+```
+
 **自带pip3**
 
 ##安装Python2 - pip
@@ -91,10 +109,8 @@ chmod a+x all.sh
 ![](https://raw.githubusercontent.com/haozibi/MyScript/master/docs/pic.png)
 
 ## AD：
-**web : [www.bzizi.com](http://www.bzizi.com)**
+**web : [ydo.io](http://ydo.io)**
 
-**Email : [blog.bzizi.com](http://blog.bzizi.com)**
-
-## Email : [b@bzizi.com](mailto:b@bzizi.com)
+## Email : [haozibi@foxmail.com](mailto:haozibi@foxmail.com)
 
 
