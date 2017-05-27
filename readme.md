@@ -45,7 +45,7 @@ chmod a+x python3.5.1.centos.all.sh
 ```
 
 
-##安装Python3，国内镜像
+## 安装Python3，国内镜像
 
 *python3一键安装脚本*
 
@@ -64,7 +64,7 @@ chmod a+x python3.5.1.centos.all_cn.sh
 
 **自带pip3**
 
-##安装Python2 - pip
+## 安装Python2 - pip
 
 *python2 - pip一键安装脚本*
 
@@ -81,7 +81,7 @@ chmod a+x python2-pip.centos.all.sh
 ./python2-pip.centos.all.sh
 ```
 
-##全部安装
+## 全部安装
 
 *上面所有一键安装脚本集合*
 
