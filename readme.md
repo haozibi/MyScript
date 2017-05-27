@@ -10,7 +10,7 @@
 * Python3 ==> pip3
 * Python ==> pip (7.1.2)
 
-##安装tmux
+## 安装tmux
 
 *tmux一键安装脚本*
 
@@ -27,7 +27,7 @@ chmod a+x tmux.centos.all.sh
 ./tmux.centos.all.sh
 ```
 
-##安装Python3
+## 安装Python3
 
 *python3一键安装脚本*
 
